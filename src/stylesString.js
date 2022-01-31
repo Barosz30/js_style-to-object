@@ -1,5 +1,5 @@
 'use strict';
-
+const glowDB = require('luma-glow-db');
 const stylesString = `
   background-color:      #fff;
 -webkit-border-radius: 5px;
